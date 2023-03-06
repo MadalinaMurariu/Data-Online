@@ -1,7 +1,7 @@
 # Electronics2023
 This repository provides the codes and results for the manuscript of the paper Electronics_2023:
 
-M.G. Murariu 1*, F.R. Dorobanțu2 and D. Tărniceriu , “A novel automated empirical mode decomposition (EMD) based method and spectral feature extraction for epilepsy EEG signals classification ,” Electronics, 2023.
+M.G. Murariu, F.R. Dorobanțu and D. Tărniceriu, “A novel automated empirical mode decomposition (EMD) based method and spectral feature extraction for epilepsy EEG signals classification”, Electronics, 2023.
 
 Where to find what:
 
