@@ -8,6 +8,6 @@ Where to find what:
     Focal vs non-focal: consist in EEG focal and non-focal signals from Barcelona-Bern database and the IMFs extracted by EMD method
     Codes: all MATLAB functions needed to obtain the results analyzing the EEG Barcelona-Bern database and Cluj-Napoca database.
     Results_data_classification: results obtained for the EEG Bern-Barcelona and Cluj-Napoca databases, ectracted just the result obtained for the data provided
-    Sleep and Wakefulness: contains .mat files of the EEG focal and generalized signals from Cluj-Napoca database and the IMFs extracted by proposed method in the article.
+    Sleep and Wakefulness: contains .mat files of the IMFs extracted from EEG focal and generalized signals (Cluj-Napoca database)
 
 If any of the codes is used, please cite the manuscript. For further doubts contact the corresponding author: madalina-giorgiana.murariu@student.tuiasi.ro
