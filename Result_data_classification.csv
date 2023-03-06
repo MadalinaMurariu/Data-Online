@@ -1,0 +1,15 @@
+Focal vs Generalized epilepsy_sleep,KNN_classification_rate,KNN_sensitivity,KNN_specificity,NB_classification_rate,NB_sensitivity,NB_specificity,Precision,Recall,F1score,MatthewsCorrelationCoefficient,Kappa
+Subject9 vs Subject8,98,99.69,96.31,98.4,99.61,97.27,0.68627451,0.593220339,0.6,0.2,0.22
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Focal vs Generalized epilepsy_wakefulness stage,KNN_classification_rate,KNN_sensitivity,KNN_specificity,NB_classification_rate,NB_sensitivity,NB_specificity,Precision,Recall,F1score,MatthewsCorrelationCoefficient,Kappa
+Subject29 vs Subject45,99.47,99.51,99.44,99.2,99.22,99.22,0.921568627,0.903846154,0.9,0.8,0.83
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Focal vs Non-focal epilesy,KNN_classification_rate,KNN_sensitivity,KNN_specificity,NB_classification_rate,NB_sensitivity,NB_specificity,Precision,Recall,F1score,MatthewsCorrelationCoefficient,Kappa
+Ind0125 F vs Ind0125 NF,99.9,100,100,99.8,100,99.61,0.936170213,0.656716418,0.8,0.5,0.51
+Ind0927 F vs IND0927 NF,73.95,74.01,73.89,74.9,74.85,74.85,0.411764706,0.75,0.5,0.3,0.27
