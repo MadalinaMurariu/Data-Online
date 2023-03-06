@@ -10,4 +10,4 @@ Where to find what:
     Results_data_classification: results obtained for the EEG Bern-Barcelona and Cluj-Napoca databases, ectracted just the result obtained for the data provided
     Sleep and Wakefulness: contains EEG focal and generalized signal from Cluj-Napoca database and the IMFs extracted by proposed method in the article.
 
-If any of the codes is used, please cite the manuscript. For further doubts contact the corresponding author: anais.espinoso@gmail.com
+If any of the codes is used, please cite the manuscript. For further doubts contact the corresponding author: madalina-giorgiana.murariu@student.tuiasi.ro
